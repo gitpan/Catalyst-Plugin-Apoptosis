@@ -1,4 +1,4 @@
-# $Id: /mirror/perl/Catalyst-Plugin-Apoptosis/trunk/lib/Catalyst/Plugin/Apoptosis.pm 2551 2007-09-17T15:56:49.702151Z daisuke  $
+# $Id: /mirror/perl/Catalyst-Plugin-Apoptosis/trunk/lib/Catalyst/Plugin/Apoptosis.pm 2552 2007-09-18T08:36:57.555445Z daisuke  $
 #
 # Copyright (c) 2007 Daisuke Maki <daisuke@endeworks.jp>
 # All rights reserved.
@@ -6,7 +6,7 @@
 package Catalyst::Plugin::Apoptosis;
 use strict;
 use warnings;
-our $VERSION = '0.00001';
+our $VERSION = '0.00002';
 
 sub handle_request
 {
